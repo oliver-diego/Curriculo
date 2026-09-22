@@ -1,4 +1,4 @@
-# Olá, eu sou o Diego Oliveira 
+# Diego Oliveira 
 
 Estudante de Análise e Desenvolvimento de Sistemas buscando a primeira oportunidade de estágio na área de tecnologia.
 
@@ -12,19 +12,19 @@ Estudante de Análise e Desenvolvimento de Sistemas buscando a primeira oportuni
 
 ---
 
-##  Educação
+### Educação
 - *Análise e Desenvolvimento de Sistemas* (1º Semestre) — Universidade Cruzeiro do Sul
 - *Técnico em Eletrônica* — Etec Carolina Carinhato Sampaio
 
 ---
 
-## Experiência
+### Experiência
 - **Jovem Aprendiz Administrativo** — ETAPA
 - **Assistente de Instalações** — Temporário
 
 ---
 
-##  Habilidades
+### Habilidades
 - Inglês Intermediário a Avançado
 - Pacote Office
 - Organização / Proatividade / Comunicação / Facilidade em Tecnologia
