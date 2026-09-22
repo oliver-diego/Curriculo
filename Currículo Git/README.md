@@ -10,6 +10,10 @@ Estudante de Análise e Desenvolvimento de Sistemas buscando a primeira oportuni
 - **E-mail:** pereiradeoliveiradiego7@gmail.com
 - **Localização:** São Paulo - SP
 
+## Currículo completo
+
+Consulte meu [currículo completo](curriculo.md), com detalhes sobre experiência profissional, formação acadêmica e certificações.
+
 ---
 
 ### Educação
